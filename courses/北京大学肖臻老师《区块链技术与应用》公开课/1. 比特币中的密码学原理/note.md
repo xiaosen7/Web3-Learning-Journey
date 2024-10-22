@@ -1,5 +1,7 @@
 # 比特币中的密码学原理笔记
 
+https://lxblog.com/efficiency/U/FRaKyRZNpHgaZ5BduOEMAfWo5vs85Diy
+
 ## 哈希函数的重要性质
 
 1. **碰撞抵抗性 (Collision Resistance)**
@@ -14,7 +16,7 @@
    - 用途: 实现数字承诺 (digital commitment)
 
 3. **难题友好性 (Puzzle Friendly)**
-   - 哈希值计算事先不可预测
+   - 哈希函数的计算结果是不可预测的，要找到特定条件的哈希值只能通过大量尝试，没有捷径可走
    - 用途: 比特币挖矿过程
 
 ## 比特币中的账户管理
@@ -50,7 +52,7 @@
 13. Brute force attack 暴力攻击
 14. Good source of randomness 良好的随机源
 
-## 补充知识: 鸽巢原理
+## 补充知识: 鸽巢原理(也叫抽屉原理 Drawer Principle)
 
 - 基本概念: 如果有 n 个物品放入 m 个容器中, 且 n > m, 则至少有一个容器会包含多于一个物品
 - 在哈希函数中的应用:
