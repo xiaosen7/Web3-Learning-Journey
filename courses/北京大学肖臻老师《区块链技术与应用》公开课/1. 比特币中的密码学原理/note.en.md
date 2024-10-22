@@ -16,8 +16,7 @@ https://lxblog.com/efficiency/U/FRaKyRZNpHgaZ5BduOEMAfWo5vs85Diy
    - Uses: Implementing digital commitments
 
 3. **Puzzle Friendly**
-   - The result of a hash function is unpredictable, and finding a hash value that meets specific conditions can only be achieved through numerous attempts, with no shortcuts available
-   - Uses: Bitcoin mining process
+   - The result of a hash function is unpredictable, and finding a hash value that meets specific conditions can only be achieved through numerous attempts, with no shortc
 
 ## Account Management in Bitcoin
 

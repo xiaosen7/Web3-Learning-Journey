@@ -1,0 +1,15 @@
+{
+  "name": "@workspace/backend",
+  "dependencies": {
+    "@chainlink/env-enc": "^1.0.5",
+    "@nomicfoundation/hardhat-ignition": "^0.15.6",
+    "@nomicfoundation/hardhat-toolbox-viem": "^3.0.0",
+    "@openzeppelin/contracts": "^5.1.0",
+    "chai": "4.5.0",
+    "hardhat": "^2.22.13",
+    "viem": "2.17.0"
+  },
+  "devDependencies": {
+    "@types/chai": "4.3.20"
+  }
+}
