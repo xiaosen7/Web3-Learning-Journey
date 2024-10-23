@@ -1,6 +1,6 @@
 # 比特币中的密码学原理笔记
 
-https://lxblog.com/efficiency/U/FRaKyRZNpHgaZ5BduOEMAfWo5vs85Diy
+[课程链接](https://www.bilibili.com/video/BV1Vt411X7JF?spm_id_from=333.788.videopod.episodes&vd_source=74bce47dc91fea0f83d6bc4f3e792e47&p=2)
 
 ## 哈希函数的重要性质
 
