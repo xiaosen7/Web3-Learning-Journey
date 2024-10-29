@@ -1,5 +1,5 @@
 export const erc20Config = {
-  address: "0x06fD536c117528DE9637e5D349Ab2dA4e40504B7",
+  address: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
   abi: [
     {
       inputs: [

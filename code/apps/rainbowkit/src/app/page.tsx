@@ -9,7 +9,7 @@ import {
   useReadContract,
   useWriteContract,
 } from "wagmi";
-import { erc20Config } from "../contracts";
+import { erc20Config } from "@/contractConfig";
 import { useState, useEffect } from "react";
 import { formatUnits, parseUnits, parseEther } from "viem";
 
@@ -543,7 +543,6 @@ const Home: NextPage = () => {
               <QueryAllowanceForm address={address} decimals={decimals} />
               <MintForm decimals={decimals} />
               <BuyTokensForm tokenPrice={tokenPrice} />
-              {/* 添加 BuyTokensForm 组件 */}
             </div>
           )}
         </div>
